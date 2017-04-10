@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         //noinspection SimplifiableIfStatement
+        //change color
         if (id == R.id.action_settings) {
             return true;
         }
